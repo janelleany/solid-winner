@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend for delaegis site",
+  "main": "server.js",
+  "repository": "https://github.com/janelleany/solid-winner.git",
+  "author": "janelleany <janellealexander12@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "express-validator": "^5.2.0",
+    "nodemailer": "^4.6.7"
+  }
+}
